@@ -1,7 +1,7 @@
-# CodeDS
+# Code Snippets
 
 ```
-This is a repository for reusable codes within the data science field.
+This is a repository for reusable code snippets for DS/SDE.
 ```
 
 ## Table of Contents
